@@ -12,7 +12,7 @@ export default function Home() {
         <div id="header" className="py-7 flex justify-between flex-col lg:flex-row items-center gap-4">
 
             <h1 className="text-[24px] cormorant-garamond-300 tracking-[1.92px]">
-                CK Architecture
+                Connie Lin Architecture
             </h1>
 
             <div id="menu" className="jetbrains-mono-500 uppercase text-[11px] tracking-[1.1px] flex gap-8 items-center">
@@ -115,7 +115,7 @@ export default function Home() {
             className="py-10 flex justify-between jetbrains-mono-400 text-[#666666] text-[10px] tracking-[1px] flex-col lg:flex-row items-center gap-4 text-center">
 
             <h6>
-                © 2026 CK ARCHITECTURE
+                © 2026 Connie Lin Architecture
             </h6>
 
             <h6>
